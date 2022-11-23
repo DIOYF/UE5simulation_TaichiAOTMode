@@ -11,6 +11,8 @@
 
 * 基本的运动效果演示可以通过Taichi运行查看 :
 
+在\RelatedAlgorithmSourceCode对应的文件夹中可以查看CUDA，HLSL，TaichiAOTapp.cpp相关的源代码
+
 自由落体运动基本演示（需要python和taichi环境，建议使用Taichi1.1.3或Taichi1.2.2）
 
 ```shell
@@ -26,7 +28,7 @@ python Taichi_ClothSimulation_Render.py
 ```
 
 
-在\RelatedAlgorithmSourceCode对应的文件夹中可以查看CUDA，HLSL，TaichiAOTapp.cpp相关的代码。
+
 
 * 相关UEdemo放在名称对应文件夹: 
 
