@@ -4,7 +4,7 @@
 
 编译运行项目后，在编辑器界面内容浏览器选择MyAssets/Level/TaichiCLSI.umap即可查看布料模拟效果，效果如下所示。
 
-![2](./Taichi_clsi_Demo.gif)
+![2](./Taichi_clsi_demo.gif)
 
 ### 实现思路
 
