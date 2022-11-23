@@ -4,6 +4,9 @@
 
 自由落体使用牛顿力学模拟，布料网格使用弹簧质点系统牛顿力学模拟，相关模拟算法均采用最简单直接方式实现，项目主要目的在于在UE5.0.3中运行。
 
+
+
+
 ### 文件说明
 
 基本的运动效果演示可以通过Taichi运行查看:
@@ -23,14 +26,15 @@ python Taichi_ClothSimulation_Render.py
 ```
 
 
-
 在\RelatedAlgorithmSourceCode对应的文件夹中可以查看CUDA，HLSL，TaichiAOTapp.cpp相关的代码。
 
-相关UEdemo均放在名称对应文件夹。
+相关UEdemo放在名称对应文件夹。在对应的文件夹下有相关的说明文档，演示效果和项目文件夹。
 
-比如“UE5CS_ClothSimulation”是使用Computer Shader实现布料模拟的demo。
+比如“UE5CS_ClothSimulation”是使用Computer Shader在UE中实现布料模拟的demo。
 
+比如在"UE5taichi_FreeFall"中可以看到Taichi_AOT_FreeFall效果，与python中的演示效果基本一致：
 
+![1](./UE5taichi_FreeFall/Taichi_FreeFall_Demo.gif)
 
 
 
