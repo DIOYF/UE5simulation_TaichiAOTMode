@@ -24,7 +24,7 @@ python Taichi_ClothSimulation_Render.py
 
 
 
-在\RelatedAlgorithmSourceCode对应的文件夹中可以查看CUDA，HLSL，TaichiAOTapp.cpp设置相关的代码。
+在\RelatedAlgorithmSourceCode对应的文件夹中可以查看CUDA，HLSL，TaichiAOTapp.cpp相关的代码。
 
 相关UEdemo均放在名称对应文件夹。
 
