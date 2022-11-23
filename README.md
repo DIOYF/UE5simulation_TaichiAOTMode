@@ -36,7 +36,7 @@ python Taichi_ClothSimulation_Render.py
 
 ### 额外注意事项
 
-Compute Shader参考官方使用插件编写全局着色器的实现。
+Compute Shader模块实现在plugins当中。
 
 CUDA的项目中需要在build.cs文件中配置对应主机的Nvidia cuda路径。
 
