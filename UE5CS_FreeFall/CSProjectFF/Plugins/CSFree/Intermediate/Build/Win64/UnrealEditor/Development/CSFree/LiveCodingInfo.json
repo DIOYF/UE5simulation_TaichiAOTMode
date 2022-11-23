@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CSFree.cpp.obj": [
+			"ComputeShaderConfig.cpp.obj",
+			"CSFree.cpp.obj"
+		]
+	}
+}

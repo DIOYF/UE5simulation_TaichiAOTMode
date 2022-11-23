@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CSFree.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UnrealProject\CUDAProjectFF\Intermediate\Build\Win64\CUDAProjectFFEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\UnrealProject\CUDAProjectFF\Plugins\CSFree\Intermediate\Build\Win64\UnrealEditor\Development\CSFree\Module.CSFree.cpp.obj"
+"F:\UnrealProject\CUDAProjectFF\Plugins\CSFree\Intermediate\Build\Win64\UnrealEditor\Development\CSFree\Default.rc2.res"
+/OUT:"F:\UnrealProject\CUDAProjectFF\Plugins\CSFree\Intermediate\Build\Win64\UnrealEditor\Development\CSFree\UnrealEditor-CSFree.lib"

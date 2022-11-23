@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CSclsi.cpp.obj": [
+			"ComputeShaderConfig.cpp.obj",
+			"CSclsi.cpp.obj"
+		]
+	}
+}

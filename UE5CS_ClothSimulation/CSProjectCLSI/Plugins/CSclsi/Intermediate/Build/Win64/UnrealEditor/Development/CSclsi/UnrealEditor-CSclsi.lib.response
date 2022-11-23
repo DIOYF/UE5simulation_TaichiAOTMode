@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CSclsi.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UnrealProject\FreeFallAchieve3\unrealcode\UE5_CS_project_clsi\CSProjectCLSI\Intermediate\Build\Win64\CSProjectCLSIEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\UnrealProject\FreeFallAchieve3\unrealcode\UE5_CS_project_clsi\CSProjectCLSI\Plugins\CSclsi\Intermediate\Build\Win64\UnrealEditor\Development\CSclsi\Module.CSclsi.cpp.obj"
+"F:\UnrealProject\FreeFallAchieve3\unrealcode\UE5_CS_project_clsi\CSProjectCLSI\Plugins\CSclsi\Intermediate\Build\Win64\UnrealEditor\Development\CSclsi\Default.rc2.res"
+/OUT:"F:\UnrealProject\FreeFallAchieve3\unrealcode\UE5_CS_project_clsi\CSProjectCLSI\Plugins\CSclsi\Intermediate\Build\Win64\UnrealEditor\Development\CSclsi\UnrealEditor-CSclsi.lib"

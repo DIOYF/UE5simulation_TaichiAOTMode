@@ -1,0 +1,46 @@
+{
+"aot_data": {
+  "kernels": {"MainCompute_c78_0": {
+      "tasks": [{
+          "type": "range_for",
+          "range_hint": "",
+          "name": "T97f9de23a38c9441709712952d5075d882f3116cbe02a6cf39948015c6af6ca40",
+          "source_path": "Taichi_Free_AOT/T97f9de23a38c9441709712952d5075d882f3116cbe02a6cf39948015c6af6ca40.spv",
+          "gpu_block_size": 128,
+          "buffer_binds": [{
+              "buffer": {
+                "type": 2,
+                "id": -1},
+              "binding": 0}],
+          "texture_binds": []},{
+          "type": "range_for",
+          "range_hint": "",
+          "name": "T97f9de23a38c9441709712952d5075d882f3116cbe02a6cf39948015c6af6ca41",
+          "source_path": "Taichi_Free_AOT/T97f9de23a38c9441709712952d5075d882f3116cbe02a6cf39948015c6af6ca41.spv",
+          "gpu_block_size": 128,
+          "buffer_binds": [{
+              "buffer": {
+                "type": 2,
+                "id": -1},
+              "binding": 0}],
+          "texture_binds": []}],
+      "args_count": 2,
+      "rets_count": 0,
+      "args_buffer_size": 16,
+      "rets_buffer_size": 0,
+      "scalar_args": {},
+      "arr_args": {"0": {
+          "dtype_name": "f32",
+          "field_dim": 1,
+          "element_shape": [3],
+          "shape_offset_in_args_buf": 0,
+          "bind_index": 0},"1": {
+          "dtype_name": "f32",
+          "field_dim": 1,
+          "element_shape": [3],
+          "shape_offset_in_args_buf": 4,
+          "bind_index": 0}}}},
+  "kernel_tmpls": {},
+  "fields": [],
+  "required_caps": {"5": 66304},
+  "root_buffer_size": 0}}
