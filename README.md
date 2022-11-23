@@ -9,7 +9,7 @@
 
 ### 文件说明
 
-基本的运动效果演示可以通过Taichi运行查看:
+* 基本的运动效果演示可以通过Taichi运行查看 *:
 
 自由落体运动基本演示（需要python和taichi环境，建议使用Taichi1.1.3或Taichi1.2.2）
 
@@ -28,7 +28,9 @@ python Taichi_ClothSimulation_Render.py
 
 在\RelatedAlgorithmSourceCode对应的文件夹中可以查看CUDA，HLSL，TaichiAOTapp.cpp相关的代码。
 
-相关UEdemo放在名称对应文件夹。在对应的文件夹下有相关的说明文档，演示效果和项目文件夹。
+* 相关UEdemo放在名称对应文件夹: *
+
+在对应的文件夹下有相关的说明文档，演示效果和项目文件夹。
 
 比如“UE5CS_ClothSimulation”是使用Computer Shader在UE中实现布料模拟的demo。
 
