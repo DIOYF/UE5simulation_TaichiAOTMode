@@ -52,3 +52,8 @@ Taichi编译好的C_API文件打包在对应项目中TaichiCAPI文件，本项�
 
 由于Taichi运行需要taichi_c_api.dll动态库，所以保留了相关UE项目binary文件。
 
+
+### UnderDevelopment
+
+taichi目前导出的ti_export_vulkan_memory和UE的RHI层封装需要进行图形API接口开发才能实现from_device_memory to device_memory的转换。同时使用cuda需要在UE中进行额外的派生类编写，因此相应的性能优化还有很多工作要做
+
